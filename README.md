@@ -21,7 +21,7 @@ A simple React JS application for booking movie tickets, with two screens and in
 1. Clone the repository:
 
 ```bash
-git clone git clone https://github.com/your-username/movie-booking-react-app.git
+git clone git clone https://github.com/kumartarun7/MovieBooking.git
 
 cd movie-booking-react-app
 npm install
