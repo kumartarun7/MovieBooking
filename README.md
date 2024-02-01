@@ -28,10 +28,6 @@ npm install
 
 npm start
 
-cd movie-booking-react-app
-npm install
-
-npm start
 ```
 
 Live Link:
